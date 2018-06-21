@@ -1,0 +1,95 @@
+header {
+    width: 100%;
+    height: 50px;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+.table-div {
+    margin: 10px auto 0 auto;
+}
+
+td {
+    width: 400px;
+    height: 50px;
+    border: 2px solid black;
+    margin: auto;
+}
+
+.table-a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+.thread-container-div {
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+    margin: 10px auto 0 auto;
+}
+
+.title-text {
+    width: 33%;
+    height: 50px;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    float: left;
+}
+
+.content-text {
+    margin: auto;
+    width: 80%;
+    height: 70%;
+}
+
+table {
+    margin: auto;
+}
+
+.thread-reactie-container-div {
+    border: 2px solid gray;
+    width: 500px;
+    margin: 10px auto 0 auto;
+    overflow: hidden;
+}
+
+.reactie-title-text {
+    width: 45%;
+    margin-left: 5%;
+    font-weight: bold;
+    float: left;
+}
+.reactie-content-text {
+    width: 80%;
+    margin: 5px auto 5px auto;
+    height: 100px;
+}
+.button{
+    display: block;
+    position: relative;
+    margin: auto;
+}
+.reactie-input{
+    resize: none;
+    display: block;
+    width: 80%;
+    height: 70px;
+    margin:auto;
+}
+.input-form textarea{
+    resize: none;
+    width: 300px;
+    height: 50px;
+}
+.input-form input[type=submit]{
+    display: block;
+    margin:auto;
+}
+#topic-verwijderen-a{
+    font-size: 10pt;
+}
